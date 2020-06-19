@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Cpike95/Great_EBays/issues"
   },
-  "homepage": "https://github.com/Cpike95/Great_EBays#readme"
+  "homepage": "https://github.com/Cpike95/Great_EBays#readme",
+  "dependencies": {
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
 }
